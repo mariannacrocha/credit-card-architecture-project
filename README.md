@@ -1,7 +1,5 @@
 # 💳 Solicitação de Cartão de Crédito — Arquitetura de Solução
 
-> Teste Técnico — Arquitetura de Solução
-
 ---
 
 ## 📌 Visão Geral

@@ -1,6 +1,5 @@
 # ADR-001: Arquitetura em Microsserviços
 
-**Status:** Aceito
 
 ---
 
@@ -20,5 +19,5 @@ Separar cada domínio em um microsserviço independente com seu próprio banco d
 
 ## Desvantagens reconhecidas
 
-- Mais complexidade operacional do que um monólito
+- Mais complexidade operacional do que um monolito
 - Comunicação entre serviços precisa ser bem gerenciada
